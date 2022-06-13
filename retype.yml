@@ -1,0 +1,11 @@
+input: .
+output: .retype
+url: docs.bitstan.trade
+branding:
+  title: Bitstan Exchange
+  label: Docs
+links:
+- text: Exchange
+  link: https://bitstan.trade/
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
