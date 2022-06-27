@@ -651,8 +651,6 @@ X-CH-SIGN | string | Sign
 X-CH-APIKEY | string | Your API-Key
 X-CH-TS | integer | Timestamp
 
-<font size="2">**Body**</font>
-
 ---
 
 **Responses**
